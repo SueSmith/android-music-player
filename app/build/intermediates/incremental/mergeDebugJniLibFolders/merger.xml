@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/ln-222/LetsNurture/OpenSource_Projects/android-music-player/app/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/home/ln-222/LetsNurture/OpenSource_Projects/android-music-player/app/src/debug/jniLibs"/></dataSet></merger>
