@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/ln-222/LetsNurture/OpenSource_Projects/android-music-player/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/ln-222/LetsNurture/OpenSource_Projects/android-music-player/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/ln-222/Downloads/android-music-player-master/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/ln-222/Downloads/android-music-player-master/app/src/main/res/menu/main.xml"
+    }
+]

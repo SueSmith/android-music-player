@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/ln-222/LetsNurture/OpenSource_Projects/android-music-player/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/ic_launcher.png",
+        "source": "/home/ln-222/LetsNurture/OpenSource_Projects/android-music-player/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/ln-222/Downloads/android-music-player-master/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/ic_launcher.png",
+        "source": "/home/ln-222/Downloads/android-music-player-master/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]
